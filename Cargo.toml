@@ -1,0 +1,8 @@
+[package]
+name = "carbon"
+version = "0.1.0"
+authors = ["Tony Olagbaiye <frony0@gmail.com>"]
+
+[dependencies]
+yaml-rust = "*"
+rand = "*"
